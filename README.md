@@ -6,7 +6,8 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me:
+I like music and videogames!</h3>
 
 ###
 
